@@ -14,6 +14,6 @@
 
 def speak_to_grandma(phrase)
   "I LOVE YOU TOO PUMPKIN!"
-  # if the phrase is not all uppercase then they're not shouting and we should respond with HUH?! SPEAK UP, SONNY!
+  # if (if) the phrase is not (!) all uppercase (upcase) then they're not shouting and we should respond with "HUH?! SPEAK UP, SONNY!"
   
 end
