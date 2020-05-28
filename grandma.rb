@@ -25,3 +25,5 @@ def speak_to_grandma(phrase)
   end
   
 end
+
+puts speak_to_grandma("I love you Grandma!")
